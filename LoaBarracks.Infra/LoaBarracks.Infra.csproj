@@ -8,7 +8,8 @@
     <PackageReference Include="Prism.Wpf" Version="7.2.0.1367" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Models\Items\" />
     <Folder Include="Events\" />
+    <Folder Include="Models\Items\" />
+    <Folder Include="Service\" />
   </ItemGroup>
 </Project>

@@ -6,6 +6,5 @@ namespace LoaBarracks.Infra.Repositories
 {
     public interface IRepository
     {
-        public 
     }
 }
