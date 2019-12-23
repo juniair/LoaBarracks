@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Text;
+﻿using System.ComponentModel;
 
 namespace LoaBarracks.Infra
 {
-    public class Constans
-    {
-    }
 
+    // 직업
     public enum ClassType
     {
         [Description("디스트로이어")]
